@@ -1,2 +1,2 @@
 # Login-React
-Loggin created with react
+Loggin created with React
